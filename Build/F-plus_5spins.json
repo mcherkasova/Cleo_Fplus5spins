@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Slot-Simulator",
+"dataUrl": "F-plus_5spins.data.unityweb",
+"wasmCodeUrl": "F-plus_5spins.wasm.code.unityweb",
+"wasmFrameworkUrl": "F-plus_5spins.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
